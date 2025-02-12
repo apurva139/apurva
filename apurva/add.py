@@ -7,5 +7,5 @@ print(2,1)
 def sub(a,b):
     return a-b
 
-def mul(a,d):
-    return a*d
+def mul(a,e):
+    return a*e
