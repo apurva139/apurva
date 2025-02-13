@@ -13,3 +13,6 @@ def mul(a,e):
 # git config pull.rebase false
 def div(a,e):
     return a/e
+
+def div1(a,e):
+    return a/e
